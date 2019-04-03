@@ -13,7 +13,7 @@ Local hubs aligned with \#dgov
 * Amsterdam – Colony
 * Barcelona – 
 * Tallinn
-* Lubljana
+* Ljubljana
 
 ## Americas
 
