@@ -44,6 +44,7 @@
 * [DWeb Camp](https://dwebcamp.org/) \(Jul 18-21, SF\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
 * Floating Man \(Aug 13, Liberland\)
+* [DGOV Slovenia Retreat 2019] \(Sep 19-23, Slovenia\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 Want to host a local meetup? [here're some tips](http://forum.dgov.foundation/t/host-local-meetups/42)
